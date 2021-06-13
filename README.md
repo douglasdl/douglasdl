@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :jp:
 
 References -> https://github.com/anuraghazra/github-readme-stats#themes
 
@@ -33,6 +32,16 @@ Common Options:
 &cache_seconds - set the cache header manually (min: 1800, max: 86400)
 &locale - set the language in the card (e.g. cn, de, es, etc.)
 &border_radius - Corner rounding on the card_
+
+
+<a href="https://github-readme-stats.vercel.app/api?username=douglasdl&show_icons=true&theme=algolia&locale=en">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasdl&show_icons=true&theme=algolia&locale=en" />
+</a>
+<a href="ttps://github.com/douglasdl/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdl&langs_count=10&theme=algolia&locale=en&text_color=FFFFFF" />
+</a>
+
 -->
+
 
 
