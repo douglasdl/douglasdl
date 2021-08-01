@@ -47,26 +47,28 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://yarnpkg.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://douglasdl.github.io/images/GoogleAppsScript.png"></a>
+    <a href="https://developers.google.com/apps-script"><img height="40" src="https://douglasdl.github.io/images/GoogleAppsScript.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="40" src="https://douglasdl.github.io/images/Bash.jpg"></a>
 </p>
 
 ## Old Projects / Basic knowledge :nerd_face:
 <p align="center">
-    <a href=""><img height="40" src="https://douglasdl.github.io/images/RPG-Maker.png"></a>
+    <a href="https://www.rpgmakerweb.com/"><img height="40" src="https://douglasdl.github.io/images/RPG-Maker.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://douglasdl.github.io/images/AdobeFlash.jpeg"></a>
+    <a href="https://en.wikipedia.org/wiki/Adobe_Flash_Player"><img height="40" src="https://douglasdl.github.io/images/AdobeFlash.jpeg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://douglasdl.github.io/images/ActionScript.png"></a>
+    <a href="https://en.wikipedia.org/wiki/ActionScript"><img height="40" src="https://douglasdl.github.io/images/ActionScript.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Pascal
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></a>
+    <a href="https://www.oracle.com/java/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
+    <a href="https://developer.apple.com/swift/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.php.net/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
