@@ -1,10 +1,11 @@
-# Hi there! I'm Douglas <img src="https://douglasdl.github.io/images/Hi.gif" width="30px"></h2>
+# Hi there! I'm Douglas よろしくお願いします。<img src="https://douglasdl.github.io/images/Hi.gif" width="30px"></h2>
 
 ## Abstract
 - 🔭 I’m currently working on Finance Education Game and Finance Control projects.
 - 🤔 I’m looking for help with real time price APIs.
 - 💬 Ask me about anything [here](https://github.com/douglasdl/douglasdl/issues)
 - :video_game: Currently playing Clash Royale and Brawl Stars, but what I really like is to be programming and creating little games.
+- 🇧🇷, 🇺🇸, 🇯🇵, 🇩🇪.
 
 
 ## I’m currently learning 🌱
