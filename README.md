@@ -111,6 +111,25 @@
 
 </p>
 
+## Games
+<ul>
+    <li>Breakout</li>
+    <li>Connect Four</li>
+    <li>Dino</li>
+    <li>Flappy Bird</li>
+    <li>Frogger</li>
+    <li>Mario</li>
+    <li>Memory Game</li>
+    <li>Rock Paper Scissors</li>
+    <li>Snake</li>
+    <li>Space Invaders</li>
+    <li>Tetris</li>
+    <li>Whac-a-Mole</li>
+    <li>Wordle</li>
+    <li>Zelda</li>
+</ul>
+        
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
