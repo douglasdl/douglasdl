@@ -113,20 +113,37 @@
 
 ## Games
 <ul>
+    <li>Bomberman - [KaboomJS](https://github.com/douglasdl/Bomberman-Kaboom.js)</li>
     <li>Breakout</li>
+    <li>Candy Crush [React Native](https://github.com/douglasdl/React-Native-Candy-Crush)</li>
     <li>Connect Four</li>
-    <li>Dino</li>
-    <li>Flappy Bird</li>
-    <li>Frogger</li>
-    <li>Mario</li>
+    <li>Corrida dos Ratos [React](https://github.com/douglasdl/CorridadosRatos)</li>
+    <li>Crypto Zombies [Solidity](https://github.com/douglasdl/CryptoZombies)</li>
+    <li>Dinosaur - [JS](https://github.com/douglasdl/Dinosaur-Game) [Python](https://github.com/douglasdl/dino_chrome_bot)</li>
+    <li>Flappy Bird - [Python](https://github.com/douglasdl/Python-Flappy-Bird) [React Native](https://github.com/douglasdl/React-Native-Flappy-Bird)</li>
+    <li>Frogger - [JS](https://github.com/douglasdl?tab=repositories#:~:text=Star-,FroggerJS,-Public)</li>
+    <li>Investor Game [React](https://github.com/douglasdl/InvestorGame)</li>
+    <li>Mario - [KaboomJS](https://github.com/douglasdl/Mario-Kaboom.js) [Python](https://github.com/douglasdl/Python-Mario)</li>
     <li>Memory Game</li>
-    <li>Rock Paper Scissors</li>
-    <li>Snake</li>
-    <li>Space Invaders</li>
+    <li>Meta Investor - [React](https://github.com/douglasdl/Meta-Investor)</li>
+    <li>Multiplayer Game - [JS](https://github.com/douglasdl/Multiplayer-Game)</li>
+    <li>NFT Game 2 [JS](https://github.com/douglasdl/NFT-Game-2)</li>
+    <li>Pacman [React Native](https://github.com/douglasdl/React-Native-Pacman)</li>
+    <li>Plants vs Zombies - [JS](https://github.com/douglasdl/Plants-vs-Zombies)</li>
+    <li>Plants vs Insects - [JS](https://github.com/douglasdl/Plants-vs-Insects)
+    <li>Pong - [JS](https://github.com/douglasdl/Pong)</li>
+    <li>Quiz [JS](https://github.com/douglasdl/Quiz)</li>
+    <li>Quiz App [](https://github.com/douglasdl/quiz-app-js)</li>
+    <li>Rock Paper Scissors - [JS](https://github.com/douglasdl/Rock-paper-scissors)</li>
+    <li>RPG [React Native](https://github.com/douglasdl/React-Native-RPG-Game)</li>
+    <li>Snake (JS)[https://github.com/douglasdl/snake]</li>
+    <li>Space Invaders - [KaboomJS](https://github.com/douglasdl/Space-Invaders-Kaboom.js) [Python](https://github.com/douglasdl/Space-Invaders)</li>
+    <li>Sudoku [Python](https://github.com/douglasdl/Sudoku)</li>
+    <li>Super Trunfo - [JS](https://github.com/douglasdl/Super-Trunfo)</li>
     <li>Tetris</li>
     <li>Whac-a-Mole</li>
-    <li>Wordle</li>
-    <li>Zelda</li>
+    <li>Wordle - [JS](https://github.com/douglasdl/TermoJS)</li>
+    <li>Zelda - [KaboomJS](https://github.com/douglasdl/Zelda-Kaboom.js) [JS](https://github.com/douglasdl/Zelda)</li>
 </ul>
         
 
