@@ -120,22 +120,22 @@
     <li>Corrida dos Ratos (<a href="https://github.com/douglasdl/CorridadosRatos">React</a>)</li>
     <li>Crypto Zombies (<a href="https://github.com/douglasdl/CryptoZombies">Solidity</a>)</li>
     <li>Dinosaur (<a href="https://github.com/douglasdl/Dinosaur-Game">JS</a> - <a href="https://github.com/douglasdl/dino_chrome_bot">Python</a>)</li>
-    <li>Flappy Bird (<a href=""></a>[Python](https://github.com/douglasdl/Python-Flappy-Bird) <a href=""></a>[React Native](https://github.com/douglasdl/React-Native-Flappy-Bird)</li>
-    <li>Frogger (<a href=""></a>[JS](https://github.com/douglasdl?tab=repositories#:~:text=Star-,FroggerJS,-Public)</li>
-    <li>Investor Game (<a href=""></a>[React](https://github.com/douglasdl/InvestorGame)</li>
-    <li>Mario (<a href=""></a>[KaboomJS](https://github.com/douglasdl/Mario-Kaboom.js) <a href=""></a>[Python](https://github.com/douglasdl/Python-Mario)</li>
+    <li>Flappy Bird (<a href="https://github.com/douglasdl/Python-Flappy-Bird">Python</a> - <a href="https://github.com/douglasdl/React-Native-Flappy-Bird">React Native</a>)</li>
+    <li>Frogger (<a href="https://github.com/douglasdl?tab=repositories#:~:text=Star-,FroggerJS,-Public">JS</a>)</li>
+    <li>Investor Game (<a href="https://github.com/douglasdl/InvestorGame">React</a>)</li>
+    <li>Mario (<a href="https://github.com/douglasdl/Mario-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Python-Mario">Python</a></li>
     <li>Memory Game ()</li>
-    <li>Meta Investor (<a href=""></a>[React](https://github.com/douglasdl/Meta-Investor)</li>
-    <li>Multiplayer Game (<a href=""></a>[JS](https://github.com/douglasdl/Multiplayer-Game)</li>
-    <li>NFT Game 2 (<a href=""></a>[JS](https://github.com/douglasdl/NFT-Game-2)</li>
-    <li>Pacman (<a href=""></a>[React Native](https://github.com/douglasdl/React-Native-Pacman)</li>
-    <li>Plants vs Zombies (<a href=""></a>[JS](https://github.com/douglasdl/Plants-vs-Zombies)</li>
-    <li>Plants vs Insects (<a href=""></a>[JS](https://github.com/douglasdl/Plants-vs-Insects)
-    <li>Pong (<a href=""></a>[JS](https://github.com/douglasdl/Pong)</li>
-    <li>Quiz (<a href=""></a>[JS](https://github.com/douglasdl/Quiz)</li>
-    <li>Quiz App (<a href=""></a>[JS](https://github.com/douglasdl/quiz-app-js)</li>
-    <li>Rock Paper Scissors (<a href=""></a>[JS](https://github.com/douglasdl/Rock-paper-scissors)</li>
-    <li>RPG (<a href=""></a>[React Native](https://github.com/douglasdl/React-Native-RPG-Game)</li>
+    <li>Meta Investor (<a href="https://github.com/douglasdl/Meta-Investor">React</a>)</li>
+    <li>Multiplayer Game (<a href="https://github.com/douglasdl/Multiplayer-Game">JS</a>)</li>
+    <li>NFT Game 2 (<a href="https://github.com/douglasdl/NFT-Game-2">JS</a>)</li>
+    <li>Pacman (<a href="https://github.com/douglasdl/React-Native-Pacman">React Native</a>)</li>
+    <li>Plants vs Zombies (<a href="https://github.com/douglasdl/Plants-vs-Zombies">JS</a>)</li>
+    <li>Plants vs Insects (<a href="https://github.com/douglasdl/Plants-vs-Insects">JS</a>)
+    <li>Pong (<a href="https://github.com/douglasdl/Pong">JS</a>)</li>
+    <li>Quiz (<a href="https://github.com/douglasdl/Quiz">JS</a>)</li>
+    <li>Quiz App (<a href="https://github.com/douglasdl/quiz-app-js">JS</a>)</li>
+    <li>Rock Paper Scissors (<a href="https://github.com/douglasdl/Rock-paper-scissors">JS</a>)</li>
+    <li>RPG (<a href="https://github.com/douglasdl/React-Native-RPG-Game">React Native</a>)</li>
     <li>Snake (<a href="https://github.com/douglasdl/snake">JS</a>)</li>
     <li>Space Invaders (<a href="https://github.com/douglasdl/Space-Invaders-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Space-Invaders">Python</a>)</li>
     <li>Sudoku (<a href="https://github.com/douglasdl/Sudoku">Python</a>)</li>
