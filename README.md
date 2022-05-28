@@ -131,7 +131,7 @@
     <li>Pacman (<a href="https://github.com/douglasdl/React-Native-Pacman">React Native</a>)</li>
     <li>Plants vs Zombies (<a href="https://github.com/douglasdl/Plants-vs-Zombies">JS</a>)</li>
     <li>Plants vs Insects (<a href="https://github.com/douglasdl/Plants-vs-Insects">JS</a>)
-    <li>Pong (<a href="https://github.com/douglasdl/Pong">JS</a>)</li>
+    <li>Pong (<a href="https://github.com/douglasdl/Pong">Python</a>)</li>
     <li>Quiz (<a href="https://github.com/douglasdl/Quiz">JS</a>)</li>
     <li>Quiz App (<a href="https://github.com/douglasdl/quiz-app-js">JS</a>)</li>
     <li>Rock Paper Scissors (<a href="https://github.com/douglasdl/Rock-paper-scissors">JS</a>)</li>
