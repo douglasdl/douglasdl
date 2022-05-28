@@ -123,7 +123,7 @@
     <li>Flappy Bird (<a href="https://github.com/douglasdl/Python-Flappy-Bird">Python</a> - <a href="https://github.com/douglasdl/React-Native-Flappy-Bird">React Native</a>)</li>
     <li>Frogger (<a href="https://github.com/douglasdl/FroggerJS">JS</a>)</li>
     <li>Investor Game (<a href="https://github.com/douglasdl/InvestorGame">React</a>)</li>
-    <li>Mario (<a href="https://github.com/douglasdl/Mario-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Python-Mario">Python</a></li>
+    <li>Mario (<a href="https://github.com/douglasdl/Mario-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Python-Mario">Python</a>)</li>
     <li>Memory Game ()</li>
     <li>Meta Investor (<a href="https://github.com/douglasdl/Meta-Investor">React</a>)</li>
     <li>Multiplayer Game (<a href="https://github.com/douglasdl/Multiplayer-Game">JS</a>)</li>
