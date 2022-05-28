@@ -141,6 +141,7 @@
     <li>Sudoku (<a href="https://github.com/douglasdl/Sudoku">Python</a>)</li>
     <li>Super Trunfo (<a href="https://github.com/douglasdl/Super-Trunfo">JS)</a></li>
     <li>Tetris ()</li>
+    <li>Truco ()</li>
     <li>Whac-a-Mole ()</li>
     <li>Wordle (<a href="https://github.com/douglasdl/TermoJS">JS</a>)</li>
     <li>Zelda (<a href="https://github.com/douglasdl/Zelda-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Zelda">JS</a>)</li>
