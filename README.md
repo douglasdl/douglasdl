@@ -1,4 +1,4 @@
-# Hi there! I'm Douglas. よろしくお願いします。<img src="https://douglasdl.github.io/images/Hi.gif" width="30px"></h2>
+# Hi there! I'm Douglas. よろしくお願いします。<img src="https://douglasdl.github.io/images/Hi.gif" width="30px" height="30px"></h2>
 
 ## Abstract
 - 🔭 I’m currently working on Finance Education Game and Finance Control projects.
