@@ -141,6 +141,7 @@
     <li>Sudoku (<a href="https://github.com/douglasdl/Sudoku">Python</a>)</li>
     <li>Super Trunfo (<a href="https://github.com/douglasdl/Super-Trunfo">JS)</a></li>
     <li>Tetris ()</li>
+    <li>Tower Defense (<a href="https://douglasdl.github.io/Tower-Defense/">JS</a>)
     <li>Truco ()</li>
     <li>Whac-a-Mole ()</li>
     <li>Wordle (<a href="https://github.com/douglasdl/TermoJS">JS</a>)</li>
