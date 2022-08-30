@@ -125,7 +125,7 @@
     <li>GemPuzzle (<a href="https://github.com/douglasdl/GemPuzzle">JS</a>)</li>
     <li>Investor Game (<a href="https://github.com/douglasdl/InvestorGame">React</a>)</li>
     <li>Mario (<a href="https://github.com/douglasdl/Mario-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Python-Mario">Python</a>)</li>
-    <li>Memory Game ()</li>
+    <li>Memory Game ([JS](https://github.com/douglasdl/FlipCards) - React - React Native)</li>
     <li>Meta Investor (<a href="https://github.com/douglasdl/Meta-Investor">React</a>)</li>
     <li>Multiplayer Game (<a href="https://github.com/douglasdl/Multiplayer-Game">JS</a>)</li>
     <li>NFT Game 2 (<a href="https://github.com/douglasdl/NFT-Game-2">JS</a>)</li>
