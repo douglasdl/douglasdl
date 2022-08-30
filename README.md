@@ -122,6 +122,7 @@
     <li>Dinosaur (<a href="https://github.com/douglasdl/Dinosaur-Game">JS</a> - <a href="https://github.com/douglasdl/dino_chrome_bot">Python</a>)</li>
     <li>Flappy Bird (<a href="https://github.com/douglasdl/Python-Flappy-Bird">Python</a> - <a href="https://github.com/douglasdl/React-Native-Flappy-Bird">React Native</a>)</li>
     <li>Frogger (<a href="https://github.com/douglasdl/FroggerJS">JS</a>)</li>
+    <li>GemPuzzle (<a href="https://github.com/douglasdl/GemPuzzle">JS</a>)</li>
     <li>Investor Game (<a href="https://github.com/douglasdl/InvestorGame">React</a>)</li>
     <li>Mario (<a href="https://github.com/douglasdl/Mario-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Python-Mario">Python</a>)</li>
     <li>Memory Game ()</li>
