@@ -155,19 +155,26 @@
 </ul>
 
 ## Rocketseat Projects
+### NLW - Next Level Week
 <ul>
     <li>NLW1 (<a href=""></a>)</li>
     <li>NLW2 (<a href=""></a>)</li>
     <li>NLW3 - Happy (<a href="https://github.com/douglasdl/NLW-Discovery-Happy">Discovery</a>)</li>
     <li>NLW4 - Move It (<a href="https://github.com/douglasdl/NLW4-React">React</a>)</li>
-    <li>NLW5 (<a href="https://github.com/douglasdl/NLW5-ReactJS">React</a> - <a href="https://github.com/douglasdl/NLW5-React-Native">React Native</a> - <a href="https://github.com/douglasdl/NLW5-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW5-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW5-Elixir">Elixir</a>)</li>
-    <li>NLW6 (<a href="https://github.com/douglasdl/NLW6-Origin">Origin</a> - <a href="https://github.com/douglasdl/NLW6-Discover">Discover</a> - <a href="https://github.com/douglasdl/NLW6-ReactJS">React</a> - <a href="https://github.com/douglasdl/NLW6-React-Native">React Native</a> - <a href="https://github.com/douglasdl/NLW6-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW6-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW6-Elixir">Elixir</a>)</li>
-    <li>NLW7 (<a href="https://github.com/douglasdl/NLW7-Origin">Orign</a> - <a href="https://github.com/douglasdl/NLW7-Impulse">Impulse</a> - <a href="https://github.com/douglasdl/NLW7-Expanse">Expanse</a>)</li>
-    <li>NLW8 (<a href="https://github.com/douglasdl/NLW8-Origin">Origin</a> - <a href="https://github.com/douglasdl/NLW8-Impulse">Impulse</a>)</li>
-    <li>NLW9 (<a href="https://github.com/douglasdl/NLW9-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW9-Ignite">Ignite</a>)</li>
-    <li>Discover ()</li>
-    <li>Explorer ()</li>
-    <li>Ignite ()</li>
+    <li>NLW5 (<a href="https://github.com/douglasdl/NLW5-ReactJS">React</a> - <a href="https://github.com/douglasdl/NLW5-React-Native">React Native (Plant Manager)</a> - <a href="https://github.com/douglasdl/NLW5-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW5-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW5-Elixir">Elixir</a>)</li>
+    <li>NLW6 (<a href="https://github.com/douglasdl/NLW6-Origin">Origin</a> - <a href="https://github.com/douglasdl/NLW6-Discover">Discover</a> - <a href="https://github.com/douglasdl/NLW6-ReactJS">React (Let Me Ask)</a> - <a href="https://github.com/douglasdl/NLW6-React-Native">React Native (Game Play)</a> - <a href="https://github.com/douglasdl/NLW6-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW6-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW6-Elixir">Elixir</a>)</li>
+    <li>NLW7 - Heat (<a href="https://github.com/douglasdl/NLW7-Origin">Orign (Digital Nameplate)</a> - <a href="https://github.com/douglasdl/NLW7-Impulse">Impulse</a> - <a href="https://github.com/douglasdl/NLW7-Expanse">Expanse</a>)</li>
+    <li>NLW8 - Return (<a href="https://github.com/douglasdl/NLW8-Origin">Origin (Doctor Care)</a> - <a href="https://github.com/douglasdl/NLW8-Impulse">Impulse</a>)</li>
+    <li>NLW9 - eSports (<a href="https://github.com/douglasdl/NLW9-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW9-Ignite">Ignite</a>)</li>
+</ul>
+### Discover
+### Explorer
+### Ignite
+<ul>
+    <li>React (To Do List - Timer)</li>
+    <li>React Native (Todo List - GO Finance - Pizza)</li>
+    <li>Node</li>
+    <li>Flutter</li>
 </ul>
 
 <!--
