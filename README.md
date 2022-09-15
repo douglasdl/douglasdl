@@ -153,7 +153,22 @@
     <li>Wordle (<a href="https://github.com/douglasdl/TermoJS">JS</a>)</li>
     <li>Zelda (<a href="https://github.com/douglasdl/Zelda-Kaboom.js">KaboomJS</a> - <a href="https://github.com/douglasdl/Zelda">JS</a>)</li>
 </ul>
-        
+
+## Rocketseat Projects
+<ul>
+    <li>NLW1 (<a href=""></a>)</li>
+    <li>NLW2 (<a href=""></a>)</li>
+    <li>NLW3 - Happy (<a href="https://github.com/douglasdl/NLW-Discovery-Happy">Discovery</a>)</li>
+    <li>NLW4 - Move It (<a href="https://github.com/douglasdl/NLW4-React">React</a>)</li>
+    <li>NLW5 (<a href="https://github.com/douglasdl/NLW5-ReactJS">React</a> - <a href="https://github.com/douglasdl/NLW5-React-Native">React Native</a> - <a href="https://github.com/douglasdl/NLW5-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW5-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW5-Elixir">Elixir</a>)</li>
+    <li>NLW6 (<a href="https://github.com/douglasdl/NLW6-Origin">Origin</a> - <a href="https://github.com/douglasdl/NLW6-Discover">Discover</a> - <a href="https://github.com/douglasdl/NLW6-ReactJS">React</a> - <a href="https://github.com/douglasdl/NLW6-React-Native">React Native</a> - <a href="https://github.com/douglasdl/NLW6-Node.js">Node</a> - <a href="https://github.com/douglasdl/NLW6-Flutter">Flutter</a> - <a href="https://github.com/douglasdl/NLW6-Elixir">Elixir</a>)</li>
+    <li>NLW7 (<a href="https://github.com/douglasdl/NLW7-Origin">Orign</a> - <a href="https://github.com/douglasdl/NLW7-Impulse">Impulse</a> - <a href="https://github.com/douglasdl/NLW7-Expanse">Expanse</a>)</li>
+    <li>NLW8 (<a href="https://github.com/douglasdl/NLW8-Origin">Origin</a> - <a href="https://github.com/douglasdl/NLW8-Impulse">Impulse</a>)</li>
+    <li>NLW9 (<a href="https://github.com/douglasdl/NLW9-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW9-Ignite">Ignite</a>)</li>
+    <li>Discover ()</li>
+    <li>Explorer ()</li>
+    <li>Ignite ()</li>
+</ul>
 
 <!--
 - 👯 I’m looking to collaborate on ...
