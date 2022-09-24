@@ -170,13 +170,45 @@
     <li>NLW9 - eSports (<a href="https://github.com/douglasdl/NLW9-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW9-Ignite">Ignite</a>)</li>
 </ul>
 ### Discover
-### Explorer
-### Ignite
 <ul>
-    <li>React (To Do List - Timer)</li>
-    <li>React Native (Todo List - GO Finance - Pizza)</li>
-    <li>Node</li>
-    <li>Flutter</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+### Explorer
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+### Ignite - Trilha React
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+### Ignite - Trilha React Native
+<ul>
+    <li>Trilha 2021 (Todo List - GO Finance)</li>
+    <li>Trilha 2022 (Presence List - Todo List - Timer)</li>
+    <li>Conteúdo Extra (Ignite Lab 01 - Ignite Lab 03 - Pizza - Fundamentos do Firebase no React Native)</li>
+</ul>
+### Ignite - Trilha Node.js
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+### Ignite - Trilha Elixir
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
 </ul>
 
 <!--
