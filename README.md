@@ -159,7 +159,7 @@
 ## Rocketseat Projects
 ### NLW - Next Level Week
 <ul>
-    <li>NLW1 (<a href=""></a>)</li>
+    <li>NLW1 (<a href="https://github.com/douglasdl/NLW1-Discovery">Discovery</a> - <a href="https://github.com/douglasdl/NLW1">Omnistack</a>)</li>
     <li>NLW2 (<a href=""></a>)</li>
     <li>NLW3 - Happy (<a href="https://github.com/douglasdl/NLW-Discovery-Happy">Discovery</a>)</li>
     <li>NLW4 - Move It (<a href="https://github.com/douglasdl/NLW4-React">React</a>)</li>
