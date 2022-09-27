@@ -113,6 +113,11 @@
 
 </p>
 
+## Colors
+<ul>
+    <li><a href="https://douglasdl.github.io/Colors/">COLORS</a></li>
+</ul>
+
 ## Games
 <ul>
     <li>Bomberman (<a href="https://github.com/douglasdl/Bomberman-Kaboom.js">KaboomJS</a>)</li>
