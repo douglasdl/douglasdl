@@ -115,7 +115,8 @@
 
 ## Colors
 <ul>
-    <li><a href="https://douglasdl.github.io/Colors/">COLORS</a></li>
+    <li><a href="https://douglasdl.github.io/Colors/">COLORS Page</a></li>
+    <li><a href="https://github.com/douglasdl/Colors">COLORS Repo</a></li>
 </ul>
 
 ## Games
