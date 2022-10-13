@@ -199,7 +199,7 @@
 ### Ignite - Trilha React Native
 <ul>
     <li>Trilha 2021 (Todo List - <a href="https://github.com/douglasdl/Ignite-React-Native-GoFinance">GO Finance</a>)</li>
-    <li>Trilha 2022 (<a href='https://github.com/douglasdl/ImHere'>I'm Here</a> - <a href='https://github.com/douglasdl/Tasks'>Todo List</a> - Timer - <a href='https://github.com/douglasdl/RocketTeams'>Rocket Teams</a> - <a href='https://github.com/douglasdl/RocketQuiz'>Rocket Quiz</a> - <a href='https://github.com/douglasdl/RocketGym'>Rocket Gym</a>)</li>
+    <li>Trilha 2022 (<a href='https://github.com/douglasdl/ImHere'>I'm Here</a> - <a href='https://github.com/douglasdl/Tasks'>Todo List</a> - Timer - <a href='https://github.com/douglasdl/RocketTeams'>Rocket Teams</a> - <a href="https://github.com/douglasdl/IgniteTeams">Ignite Teams</a> - <a href="https://github.com/douglasdl/DailyDiet">Daily Diet</a> - <a href='https://github.com/douglasdl/RocketQuiz'>Rocket Quiz</a> - <a href='https://github.com/douglasdl/RocketGym'>Rocket Gym</a>)</li>
     <li>Conteúdo Extra (Ignite Lab 01 - Ignite Lab 03 - Pizza - Fundamentos do Firebase no React Native)</li>
 </ul>
 ### Ignite - Trilha Node.js
