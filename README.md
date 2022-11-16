@@ -174,9 +174,10 @@
     <li>NLW7 - Heat (<a href="https://github.com/douglasdl/NLW7-Origin">Orign (Digital Nameplate)</a> - <a href="https://github.com/douglasdl/NLW7-Impulse">Impulse</a> - <a href="https://github.com/douglasdl/NLW7-Expanse">Expanse</a>)</li>
     <li>NLW8 - Return (<a href="https://github.com/douglasdl/NLW8-Origin">Origin (Doctor Care)</a> - <a href="https://github.com/douglasdl/NLW8-Impulse">Impulse</a>)</li>
     <li>NLW9 - eSports (<a href="https://github.com/douglasdl/NLW9-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW9-Ignite">Ignite</a>)</li>
+    <li>NLW10 - Copa (<a href="https://github.com/douglasdl/NLW10-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW10-Ignite">Ignite</a>)</li>
 </ul>
 </li>
-    <li>NLW10 - Copa (<a href="https://github.com/douglasdl/NLW10-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW10-Ignite">Ignite</a>)</li>
+    
 </ul>
 
 ### Discover
