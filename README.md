@@ -163,7 +163,7 @@
 </ul>
 
 ## Rocketseat Projects
-### NLW - Next Level Week
+<h3>NLW - Next Level Week</h3>
 <ul>
     <li>NLW1 - Ecoleta (<a href="https://github.com/douglasdl/NLW1-Discovery">Discovery</a> - <a href="https://github.com/douglasdl/NLW1">Omnistack</a>)</li>
     <li>NLW2 - Proffy (<a href="https://github.com/douglasdl/NLW2-Discovery">Discovery</a> - <a href="https://github.com/douglasdl/NLW2-Omnistack">Omnistack</a>)</li>
@@ -180,41 +180,41 @@
     
 </ul>
 
-### Discover
+<h3>Discover</h3>
 <ul>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
 </ul>
-### Explorer
+<h3>Explorer</h3>
 <ul>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
 </ul>
-### Ignite - Trilha React
+<h3>Ignite - Trilha React</h3>
 <ul>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
 </ul>
-### Ignite - Trilha React Native
+<h3>Ignite - Trilha React Native</h3>
 <ul>
     <li>Trilha 2021 (Todo List - <a href="https://github.com/douglasdl/Ignite-React-Native-GoFinance">GO Finance</a>)</li>
     <li>Trilha 2022 (<a href='https://github.com/douglasdl/ImHere'>I'm Here</a> - <a href='https://github.com/douglasdl/Tasks'>Todo List</a> - Timer - <a href='https://github.com/douglasdl/RocketTeams'>Rocket Teams</a> - <a href="https://github.com/douglasdl/IgniteTeams">Ignite Teams</a> - <a href="https://github.com/douglasdl/DailyDiet">Daily Diet</a> - <a href='https://github.com/douglasdl/RocketQuiz'>Rocket Quiz</a> - <a href='https://github.com/douglasdl/RocketGym'>Rocket Gym</a>)</li>
     <li>Conteúdo Extra (Ignite Lab 01 - Ignite Lab 03 - Pizza - Fundamentos do Firebase no React Native)</li>
 </ul>
-### Ignite - Trilha Node.js
+<h3>Ignite - Trilha Node.js</h3>
 <ul>
     <li></li>
     <li></li>
     <li><a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a></li>
     <li></li>
 </ul>
-### Ignite - Trilha Elixir
+<h3>Ignite - Trilha Elixir</h3>
 <ul>
     <li></li>
     <li></li>
