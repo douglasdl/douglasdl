@@ -209,8 +209,10 @@
 </ul>
 <h3>Ignite - Trilha Node.js</h3>
 <ul>
-    <li></li>
-    <li></li>
+    <li><a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/nodejs-fundaments">NodeJS Fundaments</a></li>
+    <li><a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/finapi">Finantial API</a></li>
+    <li><a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/typescript">Typescript</a></li>
+    <li><a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/rentalx">Rentalx</a></li>
     <li><a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a></li>
     <li></li>
 </ul>
