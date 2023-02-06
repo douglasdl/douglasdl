@@ -197,8 +197,8 @@
 </ul>
 <h3>Ignite - Trilha React</h3>
 <ul>
-    <li></li>
-    <li></li>
+    <li>Trilha 2021 (<a href="">Project 1</a> - <a href="">Project 2</a> - <a href="">Project 3</a> - <a href="">Project 4</a> - <a href="">Project 5</a> - <a href="">Project 6</a>)</li>
+    <li>Trilha 2022 (<a href="">Project 1</a> - <a href="">Project 2</a> - <a href="">Project 3</a> - <a href="">Project 4</a> - <a href="">Project 5</a> - <a href="">Project 6</a>)</li>
     <li></li>
     <li></li>
 </ul>
