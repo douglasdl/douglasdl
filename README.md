@@ -210,12 +210,10 @@
 </ul>
 <h3>Ignite - Trilha Node.js</h3>
 <ul>
-    <li><a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/nodejs-fundaments">NodeJS Fundaments</a></li>
-    <li><a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/finapi">Finantial API</a></li>
-    <li><a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/typescript">Typescript</a></li>
-    <li><a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/rentalx">Rentalx</a></li>
-    <li><a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a></li>
-    <li></li>
+    <li>
+        Trilha 2021/2022 (<a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/nodejs-fundaments">NodeJS Fundaments</a> - <a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/finapi">Finantial API</a> - <a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/typescript">Typescript</a> - <a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/rentalx">Rentalx</a> - <a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a>)
+    </li>
+    <li>Trilha 2023 (<a href="">Project 01</a> - <a href="">Project 02</a> - <a href="">Project 03</a> - <a href="">Project 04</a>)</li> 
 </ul>
 <h3>Ignite - Trilha Elixir</h3>
 <ul>
