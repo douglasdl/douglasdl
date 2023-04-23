@@ -211,9 +211,33 @@
 <h3>Ignite - Trilha Node.js</h3>
 <ul>
     <li>
-        Trilha 2021/2022 (<a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/nodejs-fundaments">NodeJS Fundaments</a> - <a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/finapi">Finantial API</a> - <a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/typescript">Typescript</a> - <a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/rentalx">Rentalx</a> - <a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a>)
+        Trilha 2021 
+        <ul>
+            <li>
+                <a href="">Chapter I</a> (<a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/nodejs-fundaments">NodeJS Fundaments</a> - <a href="https://github.com/douglasdl/Ignite-Node.js/tree/main/finapi">Finantial API</a> - <a href="">To Do API</a> - <a href="">Todo API 2</a> - <a href="">Repositories API</a>)
+            </li>
+            <li>
+                <a href="">Chapter II</a> (<a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/typescript">Typescript</a> - <a href="https://github.com/douglasdl/Ignite-NodeJS-Starting-The-API/tree/main/rentalx">Rentalx</a>)
+            </li>
+            <li>
+                <a href="">Chapter III</a> ()
+            </li>
+            <li>
+                <a href="">Chapter IV</a> (<a href="">Tests and Business Rules</a> - <a href="">Unit Tests</a> - <a href="">Integration Tests</a>)
+            </li>
+            <li>
+                <a href="">Chapter V</a> ()
+            </li>
+            <li>
+                <a href="">Chapter VI</a> ()
+            </li>
+        </ul>
+        ( -  - <a href="https://github.com/douglasdl/Deliveries">Backend de Entregas</a>)
     </li>
     <li>Trilha 2023 (<a href="">Project 01</a> - <a href="">Project 02</a> - <a href="">Project 03</a> - <a href="">Project 04</a>)</li> 
+    <li>
+        Conteúdo Extra (<a href="">Prisma IO</a> - <a href="">Delivery Backend</a>)
+    </li>
 </ul>
 <h3>Ignite - Trilha Elixir</h3>
 <ul>
