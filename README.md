@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://nextjs.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/"><img height="40" src="https://douglasdl.github.io/images/TailwindCSS.svg"></a>
+    <a href="https://tailwindcss.com/"><img height="40" src="https://douglasdl.github.io/images/TailwindCSS.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.electronjs.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
