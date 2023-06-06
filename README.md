@@ -91,8 +91,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--
 ![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasdl&show_icons=true&theme=algolia&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdl&langs_count=3&theme=algolia&locale=en&text_color=FFFFFF)](https://github.com/douglasdl/github-readme-stats)
+-->
 
 ## Contact :iphone:
 
