@@ -144,6 +144,12 @@
     <li><a href="https://github.com/douglasdl/Colors">COLORS Repo</a></li>
 </ul>
 
+## NPM Packages
+<ul>
+    <li><a href="https://www.npmjs.com/package/@douglasdl/segmentsdisplay">Segments Display</a></li>
+    <li><a href="https://www.npmjs.com/package/@douglasdl/components">Components</a></li>
+</ul>
+
 ## Games
 <ul>
     <li>Bomberman (<a href="https://github.com/douglasdl/Bomberman-Kaboom.js">KaboomJS</a>)</li>
