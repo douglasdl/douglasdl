@@ -208,6 +208,7 @@
     <li>NLW10 - Copa (<a href="https://github.com/douglasdl/NLW10-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW10-Ignite">Ignite</a>)</li>
     <li>NLW11 - Setup (<a href="https://github.com/douglasdl/NLW11-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW11-Ignite">Ignite</a>)</li>
     <li>NLW12 - Spacetime (<a href="https://github.com/douglasdl/NLW12-Explorer">Explorer</a> - <a href="https://github.com/douglasdl/NLW12-Ignite">Ignite</a>)</li>
+    <li>NLW13 - IA (<a href="https://github.com/douglasdl/NLW13-Foundations">Foundations</a> - <a href="https://github.com/douglasdl/NLW13-Mastery">Mastery</a>)</li>
 </ul>
 </li>
     
