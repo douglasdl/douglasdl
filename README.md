@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Finance Education Game and Finance Control projects.
 - 🤔 I’m looking for help with real time price APIs and NFT Game development.
 - 💬 Ask me about anything [here](https://github.com/douglasdl/douglasdl/issues)
-- :video_game: Currently playing Clash Royale and Brawl Stars, but what I really like is to be programming and creating little games.
+- :video_game: Currently playing Zelda, but what I really like is to be programming and creating little games.
 - 🇧🇷, 🇺🇸, 🇯🇵, 🇩🇪.
 
 
