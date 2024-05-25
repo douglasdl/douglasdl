@@ -10,9 +10,7 @@
 
 ## I’m currently learning 🌱
 <p align="center">
-    <a href="https://nextjs.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/"><img height="40" src="https://douglasdl.github.io/images/TailwindCSS.png"></a>
+    <a href="https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg""></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.electronjs.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,9 +18,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://docs.soliditylang.org/en/"><img height="40" src="https://douglasdl.github.io/images/solidity.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg""></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
 </p>
 
 ## Interest 💙
@@ -41,13 +36,20 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.figma.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://yarnpkg.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developers.google.com/apps-script"><img height="40" src="https://douglasdl.github.io/images/GoogleAppsScript.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="40" src="https://douglasdl.github.io/images/Bash.jpg"></a>
+</p>
+
+## Design / Style 🎨
+<p align="center">
+    <a href="https://www.figma.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.markdownguide.org/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/"><img height="40" src="https://douglasdl.github.io/images/TailwindCSS.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Frontend (Mobile) 📱
@@ -66,9 +68,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://vitejs.dev/"><img height="40" src="https://douglasdl.github.io/images/vite.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nextjs.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -76,6 +78,15 @@
 <p align="center">
     <a href="https://nodejs.dev/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://axios-http.com/docs/intro"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://expressjs.com/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://fastify.dev/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://insomnia.rest/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </p>
 
 ## Database 💾
@@ -87,7 +98,22 @@
     <a href="https://www.sqlite.org/index.html"><img height="40" src="https://douglasdl.github.io/images/SQLite3.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-    
+
+## DevOps 💾
+<p align="center">
+    <a href="https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg""></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://yarnpkg.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://hornebrew.com/"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original-wordmark.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wiki.debian.org/Apt"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="40" src="https://douglasdl.github.io/images/Bash.jpg"></a>
+</p>
+
 ## Old Projects / Basic knowledge :nerd_face:
 <p align="center">
     <a href="https://www.rpgmakerweb.com/"><img height="40" src="https://douglasdl.github.io/images/RPG-Maker.png"></a>
@@ -113,6 +139,25 @@
 </p>
 
 <!--
+<a href="https://styled-components.com/"><img height="40" src="https://douglasdl.github.io/images/StyledComponents.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg
+https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg
+https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg
+https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg
+https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg
+https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg
+https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/p5js/p5js-original.svg
+https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg
+https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg
+https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg
+https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg
+https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg
+https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg
 ![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasdl&show_icons=true&theme=algolia&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdl&langs_count=3&theme=algolia&locale=en&text_color=FFFFFF)](https://github.com/douglasdl/github-readme-stats)
 -->
