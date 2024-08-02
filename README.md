@@ -203,15 +203,7 @@ https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-w
 
 ## [Rocketseat Projects](https://github.com/douglasdl/Rocketseat-Projects)
 
-## Full Stack Week - FSW
-<ul>
-    <li><a href="https://github.com/douglasdl/FSW-Barber">FSW1 - Barber</a></li>
-    <li><a href="https://github.com/douglasdl/FSW-Store">FSW2 - Store</a></li>
-    <li><a href="https://github.com/douglasdl/FSW-Trips">FSW3 - Trips</a></li>
-    <li><a href="https://github.com/douglasdl/FSW-Foods">FSW4 - Foods</a></li>
-    <li><a href="https://github.com/douglasdl/FSW-Barber">FSW5 - Barber V2</a></li>
-    <li><a href="https://github.com/douglasdl/FSW-Foods">Full Stack Club</a></li>
-</ul>
+## [Full Stack Club](https://github.com/douglasdl/FullStackClub)
 
 <!--
 - 👯 I’m looking to collaborate on ...
