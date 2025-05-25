@@ -7,7 +7,9 @@
 - :video_game: Currently playing Zelda, but what I really like is to be programming and creating little games.
 - 🇧🇷, 🇺🇸, 🇯🇵, 🇩🇪.
 
-
+## E-books:
+- [10 Snippets Úteis de React Native com Expo](https://dougleal.gumroad.com/l/qnzyss)
+ 
 ## I’m currently learning 🌱
 <p align="center">
     <a href="https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg""></a>
